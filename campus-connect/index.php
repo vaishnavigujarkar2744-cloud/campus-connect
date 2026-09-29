@@ -1,0 +1,4 @@
+<?php include 'header.php'; ?>
+<section class="hero mb-4"><h1 class="display-5 fw-bold">Your career starts here.</h1><p class="lead">Discover opportunities, apply for jobs, and track your campus placement journey in one place.</p><a class="btn btn-light btn-lg" href="jobs.php">Explore Jobs</a> <a class="btn btn-outline-light btn-lg" href="register.php">Create Student Account</a></section>
+<div class="row g-3"><div class="col-md-4"><div class="card p-4 h-100"><h5>Find opportunities</h5><p class="mb-0">Explore openings and eligibility details posted by your placement team.</p></div></div><div class="col-md-4"><div class="card p-4 h-100"><h5>Apply in one place</h5><p class="mb-0">Submit applications and keep your resume profile ready.</p></div></div><div class="col-md-4"><div class="card p-4 h-100"><h5>Track progress</h5><p class="mb-0">View application status updates from your dashboard.</p></div></div></div>
+<?php include 'footer.php'; ?>
